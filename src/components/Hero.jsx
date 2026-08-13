@@ -77,7 +77,7 @@ export default function Hero() {
               <ArrowRight size={16} />
             </a>
             <a
-              href="#contact"
+              href="#footer"
               className="inline-flex items-center gap-2 rounded-full border border-line bg-white px-6 py-3 text-sm font-medium text-ink hover:border-accent-blue hover:bg-bg-soft transition-colors duration-200"
             >
               Contact Me

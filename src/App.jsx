@@ -5,7 +5,6 @@ import Skills from "./components/Skills.jsx";
 import Courses from "./components/Courses.jsx";
 import Certificates from "./components/Certificates.jsx";
 import Projects from "./components/Projects.jsx";
-import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 
 export default function App() {
@@ -19,7 +18,6 @@ export default function App() {
         <Courses />
         <Certificates />
         <Projects />
-        <Contact />
       </main>
       <Footer />
     </div>
