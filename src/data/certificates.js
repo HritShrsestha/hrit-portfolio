@@ -10,14 +10,14 @@
 export const certificates = [
   {
     course: "Machine Learning & Data Science",
-    issuer: "Add issuing organization",
-    date: "Add date",
+    issuer: "Deerwalk Training Center",
+    date: "2025 Jan - March",
     image: null,
   },
   {
     course: "Digital Marketing",
-    issuer: "Add issuing organization",
-    date: "Add date",
+    issuer: "Deerwalk Training Center",
+    date: "2026 June - July",
     image: "/certificates/certificate.jpg"
   },
 ];
