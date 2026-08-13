@@ -35,7 +35,6 @@ export default function Footer() {
       <p className="text-center text-xs text-muted/80 mt-8">
         © 2026 Hrit Shrestha. All rights reserved.
       </p>
-      id="footer"
-    </footer>
+         </footer>
   );
 }
