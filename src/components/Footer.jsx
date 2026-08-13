@@ -2,9 +2,9 @@ import { Mail, Github, Linkedin, Instagram } from "lucide-react";
 
 const SOCIALS = [
   { label: "Email", href: "mailto:youremail@example.com", icon: Mail },
-  { label: "LinkedIn", href: "https://linkedin.com/in/your-username", icon: Linkedin },
-  { label: "GitHub", href: "https://github.com/your-username", icon: Github },
-  { label: "Instagram", href: "https://instagram.com/your-username", icon: Instagram },
+  { label: "LinkedIn", href: "https://linkedin.com/in/hrit-shrestha-4544913b7/", icon: Linkedin },
+  { label: "GitHub", href: "https://github.com/HritShrsestha", icon: Github },
+  { label: "Instagram", href: "https://instagram.com/hrit.shrestha", icon: Instagram },
 ];
 
 export default function Footer() {
